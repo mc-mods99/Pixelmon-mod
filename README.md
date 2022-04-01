@@ -1,7 +1,7 @@
 # Pixelmon-mod
 The amazing mod for Minecraft that adds Pokemon exploration, capture, battling and more!
 
-<img scr="https://i0.wp.com/mc-mods.net/wp-content/uploads/2014/12/Pixelmon-Mod-1.10.21.8.91.7.10.jpg"/>
+<img src="https://i0.wp.com/mc-mods.net/wp-content/uploads/2014/12/Pixelmon-Mod-1.10.21.8.91.7.10.jpg"/>
 
 The Pixelmon Mod adds many aspects of the Pokémon into Minecraft, including the Pokémon themselves, battling, trading, and breeding. Pixelmon also includes an assortment of new items, including prominent items like Poké Balls and TMs, new resources like bauxite ore and Apricorns, and new decorative blocks like chairs and clocks.
 
